@@ -1,0 +1,256 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Maps/warrior_halls_1.tmx",
+    "expandedProjectPaths": [
+        ".",
+        "Tilesets",
+        "Maps"
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "Assets/Tilesets/Adult_Ant_Aocoon_Prop.json": {
+            "scaleInDock": 1
+        },
+        "Assets/Tilesets/Brown_Block_Floor.json": {
+            "scaleInDock": 1
+        },
+        "Assets/Tilesets/Brown_Block_Walls.json": {
+            "scaleInDock": 1
+        },
+        "Assets/Tilesets/Statues.json": {
+            "scaleInDock": 1
+        },
+        "Maps/Earth_Underground.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Maps/mapTest1.json": {
+            "scale": 0.8349609375,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 509.0058479532164,
+                "y": 194.02105263157898
+            }
+        },
+        "Maps/mapTest1.tmx": {
+            "expandedObjectLayers": [
+                11,
+                10,
+                12
+            ],
+            "scale": 0.75,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 440,
+                "y": 421.33333333333326
+            }
+        },
+        "Maps/mapTest2.json": {
+            "scale": 0.8349609375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 510.8023391812866,
+                "y": 353.3099415204679
+            }
+        },
+        "Maps/mapTest2.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 440,
+                "y": 761
+            }
+        },
+        "Maps/warrior_birth.json": {
+            "scale": 0.5714843749999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 512.6999316473002,
+                "y": 512.6999316473001
+            }
+        },
+        "Maps/warrior_birth.tmj": {
+            "scale": 0.7663085937499999,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 512.8482222505418,
+                "y": 512.8482222505417
+            }
+        },
+        "Maps/warrior_birth.tmx": {
+            "expandedObjectLayers": [
+                5,
+                6
+            ],
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 560,
+                "y": 381
+            }
+        },
+        "Maps/warrior_halls_1.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 504,
+                "y": 505.33333333333326
+            }
+        },
+        "Maps/warrior_halls_2.tmx": {
+            "expandedObjectLayers": [
+                5,
+                6,
+                4
+            ],
+            "scale": 0.75,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 512,
+                "y": 511.3333333333333
+            }
+        },
+        "Maps/warrior_halls_3.tmx": {
+            "expandedObjectLayers": [
+                5,
+                6,
+                4,
+                7
+            ],
+            "scale": 0.5,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 512,
+                "y": 513
+            }
+        },
+        "Maps/warrior_halls_4.tmx": {
+            "expandedObjectLayers": [
+                5,
+                4
+            ],
+            "scale": 0.75,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 512,
+                "y": 511.3333333333333
+            }
+        },
+        "Tilesets/Adult_Ant_Aocoon_Prop.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilesets/Brown_Block_Floor.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilesets/Brown_Block_Walls.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilesets/Double_Doors.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "Tilesets/Dungeon_Doors.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "Tilesets/Dungeon_Floor.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "Tilesets/Earth_Underground.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1.5
+        },
+        "Tilesets/Grass.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilesets/Gray_Block_Floor.tsx": {
+            "scaleInDock": 1
+        },
+        "Tilesets/Gray_Block_Walls.tsx": {
+            "scaleInDock": 1
+        },
+        "Tilesets/Moss_Stone_Walls_Underground.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilesets/Props.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilesets/Statues.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "Tilesets/StoneGround.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilesets/TX_Tileset_Moss.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilesets/TX_Tileset_Moss_Walls.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilesets/Walls.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        }
+    },
+    "frame.defaultDuration": 500,
+    "last.exportedFilePath": "D:/Workspaces/Cpp/aula_sdl2/Debug/res/Maps",
+    "last.externalTilesetPath": "D:/Workspaces/Tiled/Tilesets",
+    "last.imagePath": "D:/Workspaces/Tiled/Texture",
+    "lastUsedTilesetExportFilter": "Ficheiros de conjunto de blocos JSON (*.tsj *.json)",
+    "map.height": 32,
+    "map.lastUsedExportFilter": "Ficheiros de mapa JSON (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": null,
+    "map.width": 32,
+    "openFiles": [
+        "Maps/warrior_birth.tmx",
+        "Maps/warrior_halls_1.tmx",
+        "Maps/warrior_halls_2.tmx",
+        "Maps/warrior_halls_3.tmx",
+        "Maps/warrior_halls_4.tmx",
+        "Tilesets/Double_Doors.tsx",
+        "Tilesets/Brown_Block_Walls.tsx"
+    ],
+    "project": "AntHeroMaps.tiled-project",
+    "property.type": "int",
+    "recentFiles": [
+        "Maps/warrior_birth.tmx",
+        "Tilesets/Brown_Block_Walls.tsx",
+        "Tilesets/Double_Doors.tsx",
+        "Maps/warrior_halls_4.tmx",
+        "Maps/warrior_halls_3.tmx",
+        "Maps/warrior_halls_2.tmx",
+        "Maps/warrior_halls_1.tmx",
+        "Maps/mapTest2.tmx",
+        "Maps/mapTest1.tmx",
+        "Tilesets/Dungeon_Doors.tsx",
+        "Tilesets/Statues.tsx",
+        "Tilesets/Adult_Ant_Aocoon_Prop.tsx"
+    ],
+    "tileset.lastUsedFilter": "Ficheiros de conjunto de blocos Tiled (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    }
+}
