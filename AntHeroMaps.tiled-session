@@ -3,11 +3,11 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/mapTest1.tmx",
+    "activeFile": "Maps/warrior_birth.tmx",
     "expandedProjectPaths": [
-        "Maps",
         "Tilesets",
-        "."
+        ".",
+        "Maps"
     ],
     "fileStates": {
         "": {
@@ -39,15 +39,15 @@
         },
         "Maps/mapTest1.tmx": {
             "expandedObjectLayers": [
-                11,
                 12,
+                11,
                 10
             ],
             "scale": 0.75,
-            "selectedLayer": 3,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 505.3333333333333,
-                "y": 579.9999999999999
+                "x": 497.3333333333333,
+                "y": 395.99999999999994
             }
         },
         "Maps/mapTest2.json": {
@@ -84,14 +84,14 @@
         },
         "Maps/warrior_birth.tmx": {
             "expandedObjectLayers": [
-                6,
-                5
+                5,
+                6
             ],
             "scale": 1,
-            "selectedLayer": 1,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 726,
-                "y": 516
+                "x": 723,
+                "y": 513
             }
         },
         "Maps/warrior_halls_1.tmx": {
@@ -101,47 +101,47 @@
             "scale": 0.75,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 521.3333333333333,
-                "y": 485.33333333333326
+                "x": 522.6666666666666,
+                "y": 493.33333333333326
             }
         },
         "Maps/warrior_halls_2.tmx": {
             "expandedObjectLayers": [
+                5,
                 4,
-                6,
-                5
+                6
             ],
-            "scale": 0.75,
+            "scale": 1,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 508,
-                "y": 509.33333333333326
+                "x": 532,
+                "y": 444
             }
         },
         "Maps/warrior_halls_3.tmx": {
             "expandedObjectLayers": [
+                5,
                 7,
                 4,
-                6,
-                5
+                6
             ],
             "scale": 1,
-            "selectedLayer": 6,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 404,
-                "y": 346
+                "x": 501,
+                "y": 428
             }
         },
         "Maps/warrior_halls_4.tmx": {
             "expandedObjectLayers": [
-                4,
-                5
+                5,
+                4
             ],
-            "scale": 2,
+            "scale": 0.75,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 491,
-                "y": 435
+                "x": 521.3333333333333,
+                "y": 442.66666666666674
             }
         },
         "Tilesets/Adult_Ant_Aocoon_Prop.tsx": {
@@ -186,6 +186,10 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "Tilesets/Mushrooms_1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "Tilesets/Props.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
@@ -215,7 +219,7 @@
     "frame.defaultDuration": 500,
     "last.exportedFilePath": "D:/Workspaces/Cpp/aula_sdl2/submodules/ant_hero_tiled_project/Maps",
     "last.externalTilesetPath": "D:/Workspaces/Tiled/Tilesets",
-    "last.imagePath": "D:/Workspaces/Tiled/Texture",
+    "last.imagePath": "D:/Workspaces/Cpp/aula_sdl2/submodules/ant_hero_tiled_project/Texture",
     "lastUsedTilesetExportFilter": "Ficheiros de conjunto de blocos JSON (*.tsj *.json)",
     "map.height": 32,
     "map.lastUsedExportFilter": "Ficheiros de mapa JSON (*.tmj *.json)",
@@ -228,28 +232,28 @@
         "Maps/warrior_halls_2.tmx",
         "Maps/warrior_halls_3.tmx",
         "Maps/warrior_halls_4.tmx",
-        "Maps/mapTest1.tmx"
+        "Tilesets/Adult_Ant_Aocoon_Prop.tsx"
     ],
     "project": "AntHeroMaps.tiled-project",
     "property.type": "int",
     "recentFiles": [
-        "Maps/warrior_birth.tmx",
-        "Maps/warrior_halls_1.tmx",
-        "Maps/warrior_halls_2.tmx",
-        "Maps/warrior_halls_3.tmx",
+        "Tilesets/Adult_Ant_Aocoon_Prop.tsx",
         "Maps/warrior_halls_4.tmx",
+        "Maps/warrior_halls_3.tmx",
+        "Maps/warrior_halls_2.tmx",
+        "Maps/warrior_halls_1.tmx",
+        "Maps/warrior_birth.tmx",
+        "Tilesets/Mushrooms_1.tsx",
         "Maps/mapTest1.tmx",
-        "Tilesets/Brown_Block_Walls.tsx",
-        "Tilesets/Double_Doors.tsx",
-        "Maps/mapTest2.tmx",
-        "Tilesets/Dungeon_Doors.tsx",
-        "Tilesets/Statues.tsx",
-        "Tilesets/Adult_Ant_Aocoon_Prop.tsx"
+        "Tilesets/Earth_Underground.tsx",
+        "Tilesets/Brown_Block_Floor.tsx",
+        "Tilesets/StoneGround.tsx",
+        "Tilesets/TX_Tileset_Moss.tsx"
     ],
     "tileset.lastUsedFilter": "Ficheiros de conjunto de blocos Tiled (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
-        "height": 64,
-        "width": 64
+        "height": 32,
+        "width": 32
     }
 }
